@@ -6,7 +6,7 @@ Repo added to organize modules created for Neon DSL. The purpose is to manage us
 Modules added so far:
 
 * NodeSupport
-* CustomEvent
+* EventSupport
 * CustomEventSupport
 * ChildrenSupport
 * AnimationSupport
