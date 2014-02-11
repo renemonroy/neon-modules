@@ -1,12 +1,15 @@
 neon-modules
 ============
 
-Repo added to organize modules created for Neon DSL. The purpose is to manage useful modules and to try to not repeat code by keeping the modules independent from each other but to keep them useful between Classes at the same time.
+Repo added to organize modules created by me for Neon DSL. The purpose is to manage useful modules trying to not repeat code by keeping the modules dependent only to those provided by default.
 
-Modules added so far:
+### Default Modules:
 
 * NodeSupport
 * EventSupport
 * CustomEventSupport
+
+### Modules Recently Created:
+
 * ChildrenSupport
 * AnimationSupport
